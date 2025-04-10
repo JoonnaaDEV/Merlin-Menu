@@ -27,11 +27,6 @@ Jailbreak Auto Rob
 
 ## Usage/Examples
 
-Script:
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JoonnaaDEV/Merlin-Menu/main/MerlinMenu.lua"))()
-```
-
 ```
 1. Copy script and paste in your executor.
 2. Press execute.
@@ -40,6 +35,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/JoonnaaDEV/Merlin-Men
 5. Copy and paste Merlin Menu Key in the menu.
 6. Enjoy!
 ```
+
+Script:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoonnaaDEV/Merlin-Menu/main/MerlinMenu.lua"))()
+```
+
+Get a key at:
+
+https://keyguardian.org/a/1997?id=93F0C6A70A904DC08BE27FD0849CA977
 
 ## Authors
 
