@@ -1,5 +1,5 @@
 
-# Merlin Menu | KEY SYSTEM
+# Merlin Menu | Script Hub
 
 [#]===================[ Merlin Hub] ===================[#]
 
