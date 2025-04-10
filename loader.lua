@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JoonnaaDEV/Merlin-Menu/refs/heads/main/MerlinMenu.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoonnaaDEV/Merlin-Menu/main/MerlinMenu.lua"))()
